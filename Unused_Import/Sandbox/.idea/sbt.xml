@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Dhttp.proxyHost=defra99wsa02.cznet.zeiss.org -Dhttp.proxyPort=8080 -Dhttp.proxySet=true -Dhttp.proxyUser=MSNSC -Dhttps.proxyHost=defra99wsa02.cznet.zeiss.org -Dhttps.proxyPort=8080 -Dhttps.proxySet=true -Dhttps.proxyUser=MSNSC" />
+  </component>
+</project>
